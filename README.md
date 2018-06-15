@@ -1,5 +1,5 @@
 # Expect
-Expect automation..
+Expect automation...
 
 Usage:
 You have to install the expect package on the machine that you are going to run expect.sh
