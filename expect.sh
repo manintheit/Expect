@@ -1,4 +1,3 @@
-gokay@ankara:~$ cat exp2.sh 
 #!/usr/bin/expect -f
 set timeout 8
 set username [lindex $argv 0]
